@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-class GUI17 extends JFrame {
+class GUI16 extends JFrame {
     static String answer="";
     static String bufer="";
     static boolean chek = false;
